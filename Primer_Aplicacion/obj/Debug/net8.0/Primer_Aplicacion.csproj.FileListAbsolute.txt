@@ -1,0 +1,15 @@
+C:\TUP\Segundo Año\Lab_Computacion_III\Primer_Aplicacion\bin\Debug\net8.0\Primer_Aplicacion.exe
+C:\TUP\Segundo Año\Lab_Computacion_III\Primer_Aplicacion\bin\Debug\net8.0\Primer_Aplicacion.deps.json
+C:\TUP\Segundo Año\Lab_Computacion_III\Primer_Aplicacion\bin\Debug\net8.0\Primer_Aplicacion.runtimeconfig.json
+C:\TUP\Segundo Año\Lab_Computacion_III\Primer_Aplicacion\bin\Debug\net8.0\Primer_Aplicacion.dll
+C:\TUP\Segundo Año\Lab_Computacion_III\Primer_Aplicacion\bin\Debug\net8.0\Primer_Aplicacion.pdb
+C:\TUP\Segundo Año\Lab_Computacion_III\Primer_Aplicacion\obj\Debug\net8.0\Primer_Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\TUP\Segundo Año\Lab_Computacion_III\Primer_Aplicacion\obj\Debug\net8.0\Primer_Aplicacion.AssemblyInfoInputs.cache
+C:\TUP\Segundo Año\Lab_Computacion_III\Primer_Aplicacion\obj\Debug\net8.0\Primer_Aplicacion.AssemblyInfo.cs
+C:\TUP\Segundo Año\Lab_Computacion_III\Primer_Aplicacion\obj\Debug\net8.0\Primer_Aplicacion.csproj.CoreCompileInputs.cache
+C:\TUP\Segundo Año\Lab_Computacion_III\Primer_Aplicacion\obj\Debug\net8.0\Primer_Aplicacion.sourcelink.json
+C:\TUP\Segundo Año\Lab_Computacion_III\Primer_Aplicacion\obj\Debug\net8.0\Primer_Aplicacion.dll
+C:\TUP\Segundo Año\Lab_Computacion_III\Primer_Aplicacion\obj\Debug\net8.0\refint\Primer_Aplicacion.dll
+C:\TUP\Segundo Año\Lab_Computacion_III\Primer_Aplicacion\obj\Debug\net8.0\Primer_Aplicacion.pdb
+C:\TUP\Segundo Año\Lab_Computacion_III\Primer_Aplicacion\obj\Debug\net8.0\Primer_Aplicacion.genruntimeconfig.cache
+C:\TUP\Segundo Año\Lab_Computacion_III\Primer_Aplicacion\obj\Debug\net8.0\ref\Primer_Aplicacion.dll

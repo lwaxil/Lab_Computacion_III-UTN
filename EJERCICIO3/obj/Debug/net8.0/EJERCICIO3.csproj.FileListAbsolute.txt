@@ -1,0 +1,15 @@
+C:\TUP\Segundo Año\Lab_Computacion_III\EJERCICIO3\bin\Debug\net8.0\EJERCICIO3.exe
+C:\TUP\Segundo Año\Lab_Computacion_III\EJERCICIO3\bin\Debug\net8.0\EJERCICIO3.deps.json
+C:\TUP\Segundo Año\Lab_Computacion_III\EJERCICIO3\bin\Debug\net8.0\EJERCICIO3.runtimeconfig.json
+C:\TUP\Segundo Año\Lab_Computacion_III\EJERCICIO3\bin\Debug\net8.0\EJERCICIO3.dll
+C:\TUP\Segundo Año\Lab_Computacion_III\EJERCICIO3\bin\Debug\net8.0\EJERCICIO3.pdb
+C:\TUP\Segundo Año\Lab_Computacion_III\EJERCICIO3\obj\Debug\net8.0\EJERCICIO3.GeneratedMSBuildEditorConfig.editorconfig
+C:\TUP\Segundo Año\Lab_Computacion_III\EJERCICIO3\obj\Debug\net8.0\EJERCICIO3.AssemblyInfoInputs.cache
+C:\TUP\Segundo Año\Lab_Computacion_III\EJERCICIO3\obj\Debug\net8.0\EJERCICIO3.AssemblyInfo.cs
+C:\TUP\Segundo Año\Lab_Computacion_III\EJERCICIO3\obj\Debug\net8.0\EJERCICIO3.csproj.CoreCompileInputs.cache
+C:\TUP\Segundo Año\Lab_Computacion_III\EJERCICIO3\obj\Debug\net8.0\EJERCICIO3.sourcelink.json
+C:\TUP\Segundo Año\Lab_Computacion_III\EJERCICIO3\obj\Debug\net8.0\EJERCICIO3.dll
+C:\TUP\Segundo Año\Lab_Computacion_III\EJERCICIO3\obj\Debug\net8.0\refint\EJERCICIO3.dll
+C:\TUP\Segundo Año\Lab_Computacion_III\EJERCICIO3\obj\Debug\net8.0\EJERCICIO3.pdb
+C:\TUP\Segundo Año\Lab_Computacion_III\EJERCICIO3\obj\Debug\net8.0\EJERCICIO3.genruntimeconfig.cache
+C:\TUP\Segundo Año\Lab_Computacion_III\EJERCICIO3\obj\Debug\net8.0\ref\EJERCICIO3.dll
