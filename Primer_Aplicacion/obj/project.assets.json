@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\TUP\\Segundo Año\\Lab_Computacion_III\\Primer_Aplicacion\\Primer_Aplicacion.csproj",
+      "projectUniqueName": "C:\\TUP\\Lab_Computacion_III-UTN\\Primer_Aplicacion\\Primer_Aplicacion.csproj",
       "projectName": "Primer_Aplicacion",
-      "projectPath": "C:\\TUP\\Segundo Año\\Lab_Computacion_III\\Primer_Aplicacion\\Primer_Aplicacion.csproj",
+      "projectPath": "C:\\TUP\\Lab_Computacion_III-UTN\\Primer_Aplicacion\\Primer_Aplicacion.csproj",
       "packagesPath": "C:\\Users\\maxii\\.nuget\\packages\\",
-      "outputPath": "C:\\TUP\\Segundo Año\\Lab_Computacion_III\\Primer_Aplicacion\\obj\\",
+      "outputPath": "C:\\TUP\\Lab_Computacion_III-UTN\\Primer_Aplicacion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\maxii\\AppData\\Roaming\\NuGet\\NuGet.Config"
