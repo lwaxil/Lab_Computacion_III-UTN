@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\TUP\\Segundo Año\\Lab_Computacion_III\\prueba\\prueba.csproj": {}
+    "C:\\TUP\\Lab_Computacion_III-UTN\\prueba\\prueba.csproj": {}
   },
   "projects": {
-    "C:\\TUP\\Segundo Año\\Lab_Computacion_III\\prueba\\prueba.csproj": {
+    "C:\\TUP\\Lab_Computacion_III-UTN\\prueba\\prueba.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\TUP\\Segundo Año\\Lab_Computacion_III\\prueba\\prueba.csproj",
+        "projectUniqueName": "C:\\TUP\\Lab_Computacion_III-UTN\\prueba\\prueba.csproj",
         "projectName": "prueba",
-        "projectPath": "C:\\TUP\\Segundo Año\\Lab_Computacion_III\\prueba\\prueba.csproj",
+        "projectPath": "C:\\TUP\\Lab_Computacion_III-UTN\\prueba\\prueba.csproj",
         "packagesPath": "C:\\Users\\maxii\\.nuget\\packages\\",
-        "outputPath": "C:\\TUP\\Segundo Año\\Lab_Computacion_III\\prueba\\obj\\",
+        "outputPath": "C:\\TUP\\Lab_Computacion_III-UTN\\prueba\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maxii\\AppData\\Roaming\\NuGet\\NuGet.Config"
