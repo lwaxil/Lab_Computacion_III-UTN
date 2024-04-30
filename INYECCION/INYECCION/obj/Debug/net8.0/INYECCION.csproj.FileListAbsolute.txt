@@ -1,0 +1,15 @@
+C:\TUP\Lab_Computacion_III-UTN\INYECCION\INYECCION\bin\Debug\net8.0\INYECCION.exe
+C:\TUP\Lab_Computacion_III-UTN\INYECCION\INYECCION\bin\Debug\net8.0\INYECCION.deps.json
+C:\TUP\Lab_Computacion_III-UTN\INYECCION\INYECCION\bin\Debug\net8.0\INYECCION.runtimeconfig.json
+C:\TUP\Lab_Computacion_III-UTN\INYECCION\INYECCION\bin\Debug\net8.0\INYECCION.dll
+C:\TUP\Lab_Computacion_III-UTN\INYECCION\INYECCION\bin\Debug\net8.0\INYECCION.pdb
+C:\TUP\Lab_Computacion_III-UTN\INYECCION\INYECCION\obj\Debug\net8.0\INYECCION.GeneratedMSBuildEditorConfig.editorconfig
+C:\TUP\Lab_Computacion_III-UTN\INYECCION\INYECCION\obj\Debug\net8.0\INYECCION.AssemblyInfoInputs.cache
+C:\TUP\Lab_Computacion_III-UTN\INYECCION\INYECCION\obj\Debug\net8.0\INYECCION.AssemblyInfo.cs
+C:\TUP\Lab_Computacion_III-UTN\INYECCION\INYECCION\obj\Debug\net8.0\INYECCION.csproj.CoreCompileInputs.cache
+C:\TUP\Lab_Computacion_III-UTN\INYECCION\INYECCION\obj\Debug\net8.0\INYECCION.sourcelink.json
+C:\TUP\Lab_Computacion_III-UTN\INYECCION\INYECCION\obj\Debug\net8.0\INYECCION.dll
+C:\TUP\Lab_Computacion_III-UTN\INYECCION\INYECCION\obj\Debug\net8.0\refint\INYECCION.dll
+C:\TUP\Lab_Computacion_III-UTN\INYECCION\INYECCION\obj\Debug\net8.0\INYECCION.pdb
+C:\TUP\Lab_Computacion_III-UTN\INYECCION\INYECCION\obj\Debug\net8.0\INYECCION.genruntimeconfig.cache
+C:\TUP\Lab_Computacion_III-UTN\INYECCION\INYECCION\obj\Debug\net8.0\ref\INYECCION.dll
